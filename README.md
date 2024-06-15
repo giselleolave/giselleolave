@@ -1,6 +1,6 @@
 # Hola, soy Giselle 👋
 
-Soy una entusiasta en el mundo de la programación. Me encanta aprender nuevas tecnologías y resolver problemas complejos.
+Soy una entusiasta en el mundo de la programación, egresé como Ingeniera en informática desde Duoc UC,me encanta aprender nuevas tecnologías y resolver problemas complejos. Tengo experiencia en programación de bases de datos y soporte TI nivel 3.
 
 ## 🚀 Habilidades
 - Lenguajes: Python, JavaScript, C#, SQL
